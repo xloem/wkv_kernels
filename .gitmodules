@@ -1,0 +1,12 @@
+[submodule "repos/RWKV-v2-RNN-Pile"]
+	path = repos/RWKV-v2-RNN-Pile
+	url = https://github.com/BlinkDL/RWKV-v2-RNN-Pile
+[submodule "repos/rwkv_chatbot"]
+	path = repos/rwkv_chatbot
+	url = https://github.com/harrisonvanderbyl/rwkv_chatbot
+[submodule "repos/RWKV-LM"]
+	path = repos/RWKV-LM
+	url = https://github.com/BlinkDL/RWKV-LM
+[submodule "repos/RWKV-CUDA"]
+	path = repos/RWKV-CUDA
+	url = https://github.com/BlinkDL/RWKV-CUDA
